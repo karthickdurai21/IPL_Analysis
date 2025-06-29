@@ -56,3 +56,7 @@ Interactive dashboards were built in **Power BI** with filters for:
 
 ---
 ## Project Snapshot: Core Insights and Visualizations
+
+![IPL_Analysis](https://github.com/user-attachments/assets/03c0de8c-2582-43ba-bcb1-5681207439d9)
+
+
